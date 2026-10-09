@@ -1,4 +1,4 @@
-# File-synchronization-and-backup
+# File_synchronization_and_backup
 文件同步备份-方便将一些数据内容实时同步到备份盘
 
 # 使用说明
